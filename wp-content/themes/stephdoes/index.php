@@ -1,4 +1,12 @@
-<?php get_header(); ?>
+<?php get_header(); 
+
+	// if ( is_front_page() ){
+	// 	//custom queries
+	// }else {
+
+	// }
+
+?>
 
 	<!-- <h1>This is index.php</h1> -->
 <div class="row">
